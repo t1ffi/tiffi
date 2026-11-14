@@ -55,7 +55,7 @@ h1 {
 
 /* HYPERLINKS */
 a {
-    color: #FFA500;
+    color: #333333;
     text-decoration: underline;
     text-decoration-thickness: 1px;
     text-underline-offset: 3px;
@@ -63,7 +63,7 @@ a {
 }
 
 a:hover {
-    color: #888888;
+    color: #FFA500;
 }
 
 /* CONTACT INFORMATION */
